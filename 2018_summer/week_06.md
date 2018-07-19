@@ -1,0 +1,1 @@
+I have looking into how to serialize API responses by reading documentation and talking to Raz, so that I can use the Netflix fast_jsonapi for the notice service. I have been having a lot of trouble adding validations to the migration and model because I somehow messed up the configuration of the test database, so all of my test cases fail when they should not be.
