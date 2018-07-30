@@ -1,1 +1,0 @@
-I started working on adding validations to the migration and model for the notice bar. I have also been looking into the Netflix fast json API to serialize API responses. So far adding validations have been going smoothly and I have been recieving help from Ada and Raz for API serialization.
