@@ -1,0 +1,1 @@
+This week I have been working on the serializer that I created. I added it into the controller so that the serializer is being used to render the json objects. I am running into a weird error where I added the gem for the fast_jsonapi serializer in my gemfile and installed it, but it also says it cannot be found in any of the sources even after being installed.
