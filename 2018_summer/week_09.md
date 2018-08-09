@@ -1,0 +1,1 @@
+I finished up the serializer and added more test cases to ensure it works. The controller tests now include testing the json responses. I am going to talk with Ada tonight to learn how to use the YACS-auth library to secure the notice controller
